@@ -9,5 +9,7 @@ provider.
 git clone https://github.com/shahbaz17/biconomy-web3auth-example
 cd biconomy-web3auth-example
 npm install
-npm start // visit http://localhost:8080
+npm start
 ```
+
+Visit http://localhost:8080
